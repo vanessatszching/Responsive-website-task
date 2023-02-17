@@ -51,3 +51,16 @@ a {
     color: lightseagreen;
 
 }
+
+#contentButton{
+    background-color: lightcoral;
+    color: white;
+    padding:10px 10px 10px 10px;
+    
+}
+
+#contentButtonn:hover{
+    background-color: lightskyblue;
+    color: #892be2;
+
+}
