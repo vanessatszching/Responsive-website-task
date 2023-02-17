@@ -38,3 +38,16 @@ a {
     color: #892be2;
 
 }
+
+#hori2{
+    background-color: lightgoldenrodyellow
+    color: darkolivegreen;
+    padding:10px 10px 10px 10px;
+    
+}
+
+#hori2:hover{
+    background-color: lightpink;
+    color: lightseagreen;
+
+}
