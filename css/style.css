@@ -22,8 +22,12 @@ button{
 
 }
 
+a {
+    color: inherit;
+    text-decoration: none;
+}
 #hori1{
-    background-color: #892be2;
+    background-color: lightcoral;
     color: white;
     padding:10px 10px 10px 10px;
     
