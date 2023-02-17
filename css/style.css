@@ -29,8 +29,8 @@ button{
     
 }
 
-#hori1.hover{
+#hori1:hover{
     background-color: lightskyblue;
     color: #892be2;
-    
+
 }
